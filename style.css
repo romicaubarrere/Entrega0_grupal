@@ -5,3 +5,10 @@ color: #ff8000;
 p {
 color: #808000;
 }
+
+image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
